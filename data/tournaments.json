@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "testt",
+        "location": "ici",
+        "start_date": "23/11/2342",
+        "end_date": "24/11/2342",
+        "rounds": 4,
+        "current_round": 5,
+        "round_list": [
+            {
+                "Round": 1,
+                "matches": [
+                    [
+                        [
+                            "test test",
+                            1
+                        ],
+                        [
+                            "testo testo",
+                            0
+                        ]
+                    ]
+                ]
+            },
+            {
+                "Round": 2,
+                "matches": [
+                    [
+                        [
+                            "test test",
+                            0
+                        ],
+                        [
+                            "testo testo",
+                            1
+                        ]
+                    ]
+                ]
+            },
+            {
+                "Round": 3,
+                "matches": [
+                    [
+                        [
+                            "test test",
+                            0.5
+                        ],
+                        [
+                            "testo testo",
+                            0.5
+                        ]
+                    ]
+                ]
+            },
+            {
+                "Round": 4,
+                "matches": [
+                    [
+                        [
+                            "testo testo",
+                            1
+                        ],
+                        [
+                            "test test",
+                            0
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "player_list": [
+            {
+                "id": 1,
+                "first_name": "test",
+                "last_name": "test",
+                "birth_date": "20/11/2003",
+                "national_chess_id": "",
+                "score": 1.5
+            },
+            {
+                "id": 2,
+                "first_name": "testo",
+                "last_name": "testo",
+                "birth_date": "11/11/1234",
+                "national_chess_id": "",
+                "score": 2.5
+            }
+        ],
+        "description": ""
+    }
+]

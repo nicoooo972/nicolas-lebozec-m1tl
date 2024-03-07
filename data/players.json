@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "first_name": "test",
+        "last_name": "test",
+        "birth_date": "20/11/2003",
+        "national_chess_id": ""
+    },
+    {
+        "id": 2,
+        "first_name": "testo",
+        "last_name": "testo",
+        "birth_date": "11/11/1234",
+        "national_chess_id": ""
+    }
+]
